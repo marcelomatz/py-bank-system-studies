@@ -1,2 +1,2 @@
-# python-saves
-My personal scripts, tests and saves.
+# PY - Bank System studies
+Only scripts created during some studies on Python.
